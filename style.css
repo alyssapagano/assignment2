@@ -1,0 +1,16 @@
+<style>
+body { font-family: georgia;
+	}
+	h1 {
+	text-align: center;
+	}
+	h2 {
+	text-align: center;
+	}
+	.image {float: center;
+	}
+
+	.caption {font-style: italic;
+	}
+
+	.text {font-size: 12px}
